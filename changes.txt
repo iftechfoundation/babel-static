@@ -6,6 +6,7 @@ Change history
 * Revision 12 (16 October 2024)
 Added info for IFIDs in executable and other files in general.
 Clarified the format of the "UUID://..//" marker.
+Accept "https://" as well as "http://" for the <url> tag.
 Rearranged to read more clearly.
 
 * Revision 11 (18 January 2022)
