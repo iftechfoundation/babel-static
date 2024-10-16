@@ -3,6 +3,11 @@ A community standard for IF bibliography
 
 Change history
 
+* Revision 12 (16 October 2024)
+Added info for IFIDs in executable and other files in general.
+Clarified the format of the "UUID://..//" marker.
+Rearranged to read more clearly.
+
 * Revision 11 (18 January 2022)
 Added info on IFIDs for HTML files in general.
 
